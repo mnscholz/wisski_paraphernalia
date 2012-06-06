@@ -3,7 +3,7 @@
   <path>
     <id>69</id>
     <uuid>831cd20c-4054-11e1-acd7-90e6baf5e083</uuid>
-    <path_array>a:1:{s:2:"x0";s:43:"http://erlangen-crm.org/101001/E31_Document";}</path_array>
+    <path_array>a:1:{s:2:"x0";s:43:"http://erlangen-crm.org/120111/E31_Document";}</path_array>
     <datatype_property>http://wisski.gnm.de/dev/content/</datatype_property>
     <short_name></short_name>
     <disamb>0</disamb>
@@ -22,8 +22,8 @@
   <path>
     <id>70</id>
     <uuid>831cd0e0-4054-11e1-acd7-90e6baf5e083</uuid>
-    <path_array>a:3:{s:2:"x0";s:43:"http://erlangen-crm.org/101001/E31_Document";s:2:"y0";s:44:"http://erlangen-crm.org/101001/P129_is_about";s:2:"x1";s:44:"http://erlangen-crm.org/101001/E1_CRM_Entity";}</path_array>
-    <datatype_property>http://erlangen-crm.org/101001/P3_has_note</datatype_property>
+    <path_array>a:3:{s:2:"x0";s:43:"http://erlangen-crm.org/120111/E31_Document";s:2:"y0";s:44:"http://erlangen-crm.org/120111/P129_is_about";s:2:"x1";s:44:"http://erlangen-crm.org/120111/E1_CRM_Entity";}</path_array>
+    <datatype_property>http://erlangen-crm.org/120111/P3_has_note</datatype_property>
     <short_name></short_name>
     <disamb>0</disamb>
     <length>1</length>
@@ -41,8 +41,8 @@
   <path>
     <id>71</id>
     <uuid>831cd16c-4054-11e1-acd7-90e6baf5e083</uuid>
-    <path_array>a:3:{s:2:"x0";s:43:"http://erlangen-crm.org/101001/E31_Document";s:2:"y0";s:44:"http://erlangen-crm.org/101001/P67_refers_to";s:2:"x1";s:44:"http://erlangen-crm.org/101001/E1_CRM_Entity";}</path_array>
-    <datatype_property>http://erlangen-crm.org/101001/P3_has_note</datatype_property>
+    <path_array>a:3:{s:2:"x0";s:43:"http://erlangen-crm.org/120111/E31_Document";s:2:"y0";s:44:"http://erlangen-crm.org/120111/P67_refers_to";s:2:"x1";s:44:"http://erlangen-crm.org/120111/E1_CRM_Entity";}</path_array>
+    <datatype_property>http://erlangen-crm.org/120111/P3_has_note</datatype_property>
     <short_name></short_name>
     <disamb>0</disamb>
     <length>1</length>
