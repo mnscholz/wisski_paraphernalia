@@ -1,6 +1,9 @@
-
 textproc
 =============================
+
+NOTE:
+The WissKI website now also contains these files.
+See there for up-to-date files!
 
 This folder contains:
 
